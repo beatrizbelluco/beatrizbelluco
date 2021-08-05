@@ -25,6 +25,7 @@
   <a href = "mailto:biia_hb@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/beatrizbelluco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  ![Snake animation](https://github.com/beatrizbelluco/beatrizbelluco/blob/output/github-contribution-grid-snake.svg)
  
     
 </div>
